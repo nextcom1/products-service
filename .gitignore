@@ -1,0 +1,27 @@
+**/gen/
+**/edmx/
+#올림 *.db
+schema.sql
+default-env.json
+
+**/bin/
+**/target/
+.flattened-pom.xml
+.classpath
+.project
+.settings
+
+**/node/
+**/node_modules/
+
+**/.mta/
+*.mtar
+
+*.log*
+gc_history*
+hs_err*
+*.tgz
+*.iml
+
+.vscode
+.idea
